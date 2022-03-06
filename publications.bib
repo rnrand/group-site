@@ -1,0 +1,67 @@
+@misc{Marshall2021,
+  title        = {Toward Formalizing the Q\# Programming Language},
+  author       = {Marshall, Sarah and Singhal, Kartik and Hietala, Kesha and Rand, Robert},
+  year         = {2021},
+  month        = 5,
+  howpublished = {18th International Conference on Quantum Physics and Logic 2021},
+  url          = {https://ks.cs.uchicago.edu/publication/tfqpl/},
+  abstract     = {Q\# is a high-level programming language from Microsoft for writing and running quantum programs. Like most industrial languages, it was designed without a formal specification, which can naturally lead to ambiguity in its interpretation. We aim to provide a formal specification and semantics for Q\#, placing the language on a solid mathematical foundation, enabling further evolution of its design and type system, and leading to research in program correctness and verified compiler implementation. This poster describes our current progress and outlines the next steps.},
+  keywords     = {quantum computing, quantum computation, programming languages, formal specification, formal language definitions, type systems, semantics and reasoning, quantum programming languages, language design, q\#},
+  note         = {Extended abstract accepted to QPL 2021 for the Poster Session.}
+}
+
+@inproceedings{Rand2021,
+  title     = {Extending Gottesman Types Beyond the Clifford Group},
+  author    = {Rand, Robert and Sundaram, Aarthi and Singhal, Kartik and Lackey, Brad},
+  year      = {2021},
+  month     = 6,
+  booktitle = {Informal Proceedings of the Second International Workshop on Programming Languages for Quantum Computing (PLanQC '21)},
+  url       = {https://rand.cs.uchicago.edu/publication/rand-2021-extending/},
+  abstract  = {We extend our previous work on Gottesman Types to cover circuits beyond Clifford Group and introduce the notion of linear combination types.},
+  keywords  = {quantum computing, type systems, gottesman types}
+}
+
+@inproceedings{Singhal2021,
+  title     = {Toward a Type-Theoretic Interpretation of Q\# and Statically Enforcing the No-Cloning Theorem},
+  author    = {Singhal, Kartik and Marshall, Sarah and Hietala, Kesha and Rand, Robert},
+  year      = {2021},
+  month     = 6,
+  booktitle = {Informal Proceedings of the Second International Workshop on Programming Languages for Quantum Computing (PLanQC '21)},
+  url       = {https://ks.cs.uchicago.edu/publication/tttiq/},
+  abstract  = {Q\# is a high-level programming language from Microsoft for writing and running quantum programs. Like most industrial languages, it was designed without a formal specification, which can naturally lead to ambiguity in its interpretation. Further, currently, the Q\# type system cannot statically prevent cloning of qubits. We aim to provide a formal specification and semantics for Q\#, placing the language on a solid mathematical foundation, enabling further evolution of its design and type system (including enforcing no-cloning). This paper describes our current progress in designing λ-Q\# (an idealized version of Q\#), our solution to the qubit cloning problem in λ-Q\#, and outlines the next steps.},
+  keywords  = {quantum computing, quantum computation, programming languages, formal specification, formal language definitions, type systems, semantics and reasoning, quantum programming languages, language design, q\#}
+}
+
+@misc{Singhal2022,
+  title    = {Q\# as a Quantum Algorithmic Language},
+  author   = {Singhal, Kartik and Marshall, Sarah and Hietala, Kesha and Rand, Robert},
+  year     = {2022},
+  month    = 2,
+  url      = {https://ks.cs.uchicago.edu/publication/q-algol/},
+  abstract = {Q\# is a standalone domain-specific programming language from Microsoft for writing and running quantum programs. Like most industrial languages, it was designed without a formal specification, which can naturally lead to ambiguity in its interpretation. We aim to provide a formal language definition for Q\#, placing the language on a solid mathematical foundation and enabling further evolution of its design and type system. This paper presents λ-Q\#, an idealized version of Q\# that illustrates how we may view Q\# as a quantum Algol (algorithmic language). We show the safety properties enforced by λ-Q\#'s type system and present its equational semantics based on a complete algebraic theory by Staton.},
+  keywords = {quantum computing, quantum computation, programming languages, formal specification, formal language definitions, type systems, semantics and reasoning, quantum programming languages, language design, q\#},
+  note     = {Under review.}
+}
+
+@misc{Sundaram2022,
+  title         = {A Rich Type System for Quantum Programs},
+  author        = {Aarthi Sundaram and Robert Rand and Kartik Singhal and Brad Lackey},
+  year          = {2022},
+  month         = 2,
+  archiveprefix = {arXiv},
+  eprint        = {2101.08939},
+  abstract      = {We show that Gottesman's [1998] semantics for Clifford circuits based on the Heisenberg representation can be treated as a type system that can efficiently characterize a common subset of quantum programs. Our applications include (i) certifying whether auxiliary qubits can be safely disposed of, (ii) determining if a system is separable across a given bi-partition, (iii) checking the transversality of a gate with respect to a given stabilizer code, and (iv) typing post-measurement states for computational basis measurements. Further, this type system is extended to accommodate universal quantum computing by deriving types for the T-gate, multiply-controlled unitaries such as the Toffoli gate, and some gate injection circuits that use associated magic states. These types allow us to prove a lower bound on the number of T gates necessary to perform a multiply-controlled Z gate.},
+  keywords      = {quantum computing, type systems, gottesman types},
+  note          = {Under review. A previous version accepted as a poster at the 25th Annual Conference on Quantum Information Processing (QIP 2022).}
+}
+
+@misc{Zweifler2021,
+  title        = {Formal Verification of Gottesman Semantics},
+  author       = {Zweifler, Jacob and Rand, Robert},
+  year         = {2021},
+  month        = 5,
+  howpublished = {18th International Conference on Quantum Physics and Logic 2021},
+  url          = {https://rand.cs.uchicago.edu/publication/zweifler-2021-formal/},
+  keywords     = {quantum computing, formal verification, gottesman types},
+  note         = {Extended abstract accepted to QPL 2021 for the Poster Session.}
+}
