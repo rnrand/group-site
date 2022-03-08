@@ -6,7 +6,7 @@ title: ChiQP-Lab
 superuser: true
 
 # Role/position
-role: Chicago Quantum and Programming (Languages) Lab
+role: The University of Chicago Quantum and Programming (Languages) Lab
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
