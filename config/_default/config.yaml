@@ -4,8 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: ChiQP-Lab # Website name
-baseURL: 'https://k4rtik.github.io/group-site' # Website URL
-# baseURL: 'https://chiqp.cs.uchicago.edu/' # Website URL
+baseURL: 'https://chiqp.cs.uchicago.edu/' # Website URL
 
 ############################
 ## LANGUAGE
