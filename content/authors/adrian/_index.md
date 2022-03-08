@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kartik Singhal
+title: Adrian Lehmann
 
 # Role/position
 role: PhD Student
@@ -11,49 +11,38 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Design and Verification of Programming Languages for realistic Quantum Computing.
+bio: I am interested in building verified tools for quantum programming languages.
 
 interests:
 - Programming Languages
 - Quantum Computing
-- Computer Systems
-- Software Engineering
+- Compilers
+- Formal Verification
+- ZX-calculus
 
 education:
   courses:
-  - course: ScM in Computer Science
-    institution: Brown University
-    year: 2017
-  - course: BTech in Computer Science and Engineering
-    institution: National Institute of Technology Calicut
-    year: 2013
+  - course: B.Sc. in Computer Science
+    institution: Karlsruhe Institute of Technology
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: link
+- icon: envelope
   icon_pack: fas
-  link: https://ks.cs.uchicago.edu/
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-1132-269X
+  link: 'mailto:adrianlehmann@uchicago.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=nkC9nTsAAAAJ
-# - icon: semantic-scholar
-#   icon_pack: ai
-#   link: https://www.semanticscholar.org/author/Kartik-Singhal/37149827
+  link: https://scholar.google.com/citations?user=8q7-JGoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/k4rtik
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/k4rtik
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:ks@cs.uchicago.edu'
+  link: https://github.com/adrianleh
+- icon: link
+  icon_pack: fas
+  link: https://adrianlehmann.io
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,4 +61,4 @@ user_groups:
 - Grad Students
 ---
 
-See my [homepage](https://ks.cs.uchicago.edu/) for more information.
+To see what I'm working on take a peek at my [GitHub](https://github.com/adrianlehmann) and my [website](https://adrianlehmann.io).
