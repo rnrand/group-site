@@ -61,4 +61,4 @@ user_groups:
 - Grad Students
 ---
 
-To see what I'm working on take a peek at my [GitHub](https://github.com/adrianleh) and my [website](https://adrianlehmann.io).
+I am interested in building verified tools for quantum programming languages. To see what I'm working on take a peek at my [GitHub](https://github.com/adrianleh) and my [website](https://adrianlehmann.io).

@@ -57,3 +57,5 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
+
+I am a PhD student with interests that are wide in breadth but include in particular the ZX-calculus and the formal verification of quantum programs.

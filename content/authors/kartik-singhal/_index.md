@@ -72,4 +72,4 @@ user_groups:
 - Grad Students
 ---
 
-See my [homepage](https://ks.cs.uchicago.edu/) for more information.
+I am interested in the design and verification of programming languages for realistic quantum computing. See my [homepage](https://ks.cs.uchicago.edu/) for more information.

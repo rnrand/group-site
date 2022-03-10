@@ -11,7 +11,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth year student at the University of Chicago majoring in math and computer science. 
+bio: I am a fourth year student at the University of Chicago majoring in math and computer science.
 
 interests:
 - Theoretical Mathematics
@@ -63,3 +63,5 @@ highlight_name: false
 user_groups:
 - Undergrads
 ---
+
+I am a fourth year student at the University of Chicago majoring in math and computer science.
