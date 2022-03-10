@@ -11,10 +11,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: ...
+bio: I am a fourth year student at the University of Chicago majoring in math and computer science. 
 
-# interests:
-# - ...
+interests:
+- Theoretical Mathematics
+- Programming Languages
+- Quantum Computing
+- Formal Verification
+- Complexity Theory
 
 # education:
 #   courses:
@@ -30,6 +34,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jzweifler@uchicago.edu'
+- icon: link
+  icon_pack: fas
+  link: https://jakezweifler.github.io./
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/...
