@@ -67,4 +67,4 @@ user_groups:
 - Principal Investigator
 ---
 
-See my [homepage](https://rand.cs.uchicago.edu/) for more information.
+My main interest is in applying techniques from programming languages and formal verification to the domain of quantum computation. See my [homepage](https://rand.cs.uchicago.edu/) for more information.

@@ -60,3 +60,5 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
+
+I have a broad interest in formal verification and quantum programming languages.
