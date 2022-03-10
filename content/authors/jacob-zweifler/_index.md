@@ -36,7 +36,7 @@ social:
   link: 'mailto:jzweifler@uchicago.edu'
 - icon: link
   icon_pack: fas
-  link: https://jakezweifler.github.io./
+  link: https://jakezweifler.github.io/
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/...
