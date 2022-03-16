@@ -18,7 +18,7 @@ interests:
 - Model Theory
 - Category Theory
 - Formal Verification
-- ZX-Calculus
+- ZX-calculus
 - Quantum Computing
 
 education:
@@ -56,4 +56,4 @@ user_groups:
 - Grad Students
 ---
 
-I am interested in the semantics behind graphical languages. As a part of ChiQP-Lab I work on projects relating to the ZX Calculus and quantum circuit optimization.
+I am interested in the semantics behind graphical languages. As a part of ChiQP-Lab I work on projects relating to the ZX-calculus and quantum circuit optimization.

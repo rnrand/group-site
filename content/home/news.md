@@ -5,11 +5,11 @@ headless: true
 weight: 20
 active: true
 
-title: Latest News
+title: News
 subtitle:
 
 content:
-  count: 5
+  count: 3
   filters:
     author: ""
     category: ""
@@ -20,6 +20,14 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
-  columns: "1"
+  # Toggle between the various page layout types.
+  # List (1)
+  # Compact (2)
+  # Card (3)
+  # Citation (4)
+  # For classic APA or MLA styled publication lists
+  # Optionally, edit the value of citation_style in params.yaml to APA or MLA
+  # Showcase (5)
+  view: 2
+  columns: "2"
 ---

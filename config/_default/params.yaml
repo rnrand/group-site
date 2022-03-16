@@ -43,9 +43,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} ChiQP-Lab. This work is licensed under {license}'
+    notice: '© {year} ChiQP-Lab.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -63,7 +63,6 @@ features:
   syntax_highlighter:
     enable: false
     extra_languages:
-      - r
       - latex
   math:
     enable: false
@@ -72,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/rnrand/group-site'
     content_dir: content
     branch: main
   avatar:
