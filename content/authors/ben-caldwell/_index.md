@@ -35,9 +35,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:caldwellb@uchicago.edu'
+- icon: google-scholar
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=MQKiy9wAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/caldwellb
+- icon: link
+  icon_pack: fas
+  link: people.cs.uchicago.edu/~caldwellb
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
