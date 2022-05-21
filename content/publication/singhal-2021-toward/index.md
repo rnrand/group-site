@@ -43,7 +43,7 @@ image:
 projects: []
 publishDate: '2022-05-20T03:28:49.757552Z'
 publication_types:
-- '1'
+- '9'
 abstract: Q# is a high-level programming language from Microsoft for writing and running
   quantum programs. Like most industrial languages, it was designed without a formal
   specification, which can naturally lead to ambiguity in its interpretation. Further,

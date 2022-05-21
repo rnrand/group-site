@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2022-05-20T03:28:49.631932Z'
 publication_types:
-- '1'
+- '9'
 abstract: We extend our previous work on Gottesman Types to cover circuits beyond
   Clifford Group and introduce the notion of linear combination types.
 publication: "*Second International Workshop on Programming\

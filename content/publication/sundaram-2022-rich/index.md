@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2022-05-20T03:28:49.885141Z'
 publication_types:
-- '0'
+- '3'
 abstract: We show that Gottesman's [1998] semantics for Clifford circuits based on
   the Heisenberg representation can be treated as a type system that can efficiently
   characterize a common subset of quantum programs. Our applications include (i) certifying
