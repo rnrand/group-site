@@ -53,7 +53,7 @@ abstract: Q# is a high-level programming language from Microsoft for writing and
   system (including enforcing no-cloning). This paper describes our current progress
   in designing λ-Q# (an idealized version of Q#), our solution to the qubit cloning
   problem in λ-Q#, and outlines the next steps.
-publication: "*Informal Proceedings of the Second International Workshop on Programming\
+publication: "*Second International Workshop on Programming\
   \ Languages for Quantum Computing (PLanQC '21)*"
 links:
 - name: URL

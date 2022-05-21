@@ -38,7 +38,7 @@ publication_types:
 - '1'
 abstract: We extend our previous work on Gottesman Types to cover circuits beyond
   Clifford Group and introduce the notion of linear combination types.
-publication: "*Informal Proceedings of the Second International Workshop on Programming\
+publication: "*Second International Workshop on Programming\
   \ Languages for Quantum Computing (PLanQC '21)*"
 links:
 - name: URL
