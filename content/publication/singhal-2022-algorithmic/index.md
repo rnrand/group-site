@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-20T03:28:50.291523Z'
+publishDate: '2022-05-21T11:48:47.831869Z'
 publication_types:
 - '3'
 abstract: Q# is a standalone domain-specific programming language from Microsoft for

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A verified optimizer for quantum circuits
+title: A Verified Optimizer for Quantum Circuits
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +10,12 @@ authors:
 - Shih-Han Hung
 - Xiaodi Wu
 - Michael Hicks
-tags: []
+tags:
+- programming languages
+- formal verification
+- certified compilation
+- quantum computing
+- circuit optimization
 categories: []
 date: '2021-01-01'
 lastmod: 2022-05-19T22:38:49-05:00
@@ -31,13 +36,24 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-20T03:38:49.690937Z'
+publishDate: '2022-05-21T11:48:47.443325Z'
 publication_types:
-- '1'
-abstract: ''
+- '2'
+abstract: We present VOQC, the first fully verified optimizer for quantum circuits,
+  written using the Coq proof assistant. Quantum circuits are expressed as programs
+  in a simple, low-level language called SQIR, a simple quantum intermediate representation,
+  which is deeply embedded in Coq. Optimizations and other transformations are expressed
+  as Coq functions, which are proved correct with respect to a semantics of SQIR programs.
+  SQIR uses a semantics of matrices of complex numbers, which is the standard for
+  quantum computation, but treats matrices symbolically in order to reason about programs
+  that use an arbitrary number of quantum bits. SQIR's careful design and our provided
+  automation make it possible to write and verify a broad range of optimizations in
+  VOQC, including full-circuit transformations from cutting-edge optimizers.
 publication: '*Proceedings of the ACM on Programming Languages*'
 doi: 10.1145/3434318
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1912.02250
 - name: URL
-  url: https://doi.org/10.1145/3434318
+  url: https://github.com/inQWIRE/SQIR
 ---

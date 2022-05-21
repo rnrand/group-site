@@ -33,13 +33,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-20T03:28:49.631932Z'
+publishDate: '2022-05-21T11:48:47.676944Z'
 publication_types:
 - '9'
 abstract: We extend our previous work on Gottesman Types to cover circuits beyond
   Clifford Group and introduce the notion of linear combination types.
-publication: "*Second International Workshop on Programming\
-  \ Languages for Quantum Computing (PLanQC '21)*"
+publication: "*Second International Workshop on Programming Languages for Quantum\
+  \ Computing (PLanQC '21)*"
 links:
 - name: URL
   url: https://rand.cs.uchicago.edu/publication/rand-2021-extending/

@@ -30,10 +30,18 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-20T03:28:50.422046Z'
+publishDate: '2022-05-21T11:48:47.284550Z'
 publication_types:
 - '3'
-abstract: ''
+abstract: Gate-based quantum programming languages are ubiquitous but measurement-based
+  languages currently exist only on paper. This work introduces MCBeth, a quantum
+  programming language which allows programmers to directly represent, program, and
+  simulate measurement-based and cluster state computation by building upon the measurement
+  calculus. While MCBeth programs are meant to be executed directly on hardware, to
+  take advantage of current machines we also provide a compiler to gate-based instructions.
+  We argue that there are clear advantages to measurement-based quantum computation
+  compared to gate-based when it comes to implementing common quantum algorithms and
+  distributed quantum computation.
 publication: ''
 doi: arXiv.2204.10784
 links:

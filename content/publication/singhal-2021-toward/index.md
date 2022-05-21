@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-20T03:28:49.757552Z'
+publishDate: '2022-05-21T11:48:47.753142Z'
 publication_types:
 - '9'
 abstract: Q# is a high-level programming language from Microsoft for writing and running
@@ -53,8 +53,8 @@ abstract: Q# is a high-level programming language from Microsoft for writing and
   system (including enforcing no-cloning). This paper describes our current progress
   in designing λ-Q# (an idealized version of Q#), our solution to the qubit cloning
   problem in λ-Q#, and outlines the next steps.
-publication: "*Second International Workshop on Programming\
-  \ Languages for Quantum Computing (PLanQC '21)*"
+publication: "*Second International Workshop on Programming Languages for Quantum\
+  \ Computing (PLanQC '21)*"
 links:
 - name: URL
   url: https://ks.cs.uchicago.edu/publication/tttiq/
