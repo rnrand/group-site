@@ -1,3 +1,4 @@
+#!/usr/bin/env sh
 # Mini README:
 #   Make sure Hugo Academic CLI is installed on your local environment
 #   https://github.com/wowchemy/hugo-academic-cli
