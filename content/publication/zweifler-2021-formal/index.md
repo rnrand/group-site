@@ -1,42 +1,36 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Formal Verification of Gottesman Semantics
+title: 'Formal Verification of Gottesman Semantics'
 subtitle: ''
 summary: ''
 authors:
 - Jacob Zweifler
 - Robert Rand
-tags:
-- quantum computing
-- formal verification
-- gottesman types
+tags: []
 categories: []
-date: '2021-05-01'
-lastmod: 2022-05-19T22:28:50-05:00
+date: '2020-06-07'
+lastmod: 
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-21T11:48:48.064604Z'
+publishDate: 
 publication_types:
-- '0'
+- '8'
 abstract: ''
-publication: ''
+publication: '*International Conference on Quantum Physics and Logic (QPL 2021)* Poster'
+url_pdf: http://rand.cs.uchicago.edu/files/qpl_2021a.pdf
+url_slides: 
+url_video: 
 links:
-- name: URL
-  url: https://rand.cs.uchicago.edu/publication/zweifler-2021-formal/
+- name: Poster
+  url: http://rand.cs.uchicago.edu/files/qpl_2021a_poster.pdf
 ---
+
+<!-- {{< youtube ID >}} -->
+<!-- COMMENT -->

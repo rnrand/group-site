@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2022-05-21T11:48:47.443325Z'
 publication_types:
-- '2'
+- '1'
 abstract: We present VOQC, the first fully verified optimizer for quantum circuits,
   written using the Coq proof assistant. Quantum circuits are expressed as programs
   in a simple, low-level language called SQIR, a simple quantum intermediate representation,

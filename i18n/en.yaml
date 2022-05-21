@@ -204,6 +204,9 @@
 - id: pub_workshop
   translation: Workshop paper
 
+- id: pub_poster
+  translation: Poster
+
 # Project details
 
 - id: open_project_site
