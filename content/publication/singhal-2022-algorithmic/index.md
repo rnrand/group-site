@@ -21,7 +21,7 @@ tags:
 - language design
 - q#
 categories: []
-date: '2022-02-01'
+date: '2022-06-07'
 lastmod: 2022-05-19T22:28:50-05:00
 featured: false
 draft: false
@@ -40,9 +40,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-21T11:48:47.831869Z'
+publishDate: '2022-06-06T11:48:47.831869Z'
 publication_types:
-- '3'
+- '1'
 abstract: Q# is a standalone domain-specific programming language from Microsoft for
   writing and running quantum programs. Like most industrial languages, it was designed
   without a formal specification, which can naturally lead to ambiguity in its interpretation.
@@ -52,7 +52,7 @@ abstract: Q# is a standalone domain-specific programming language from Microsoft
   we may view Q# as a quantum Algol (algorithmic language). We show the safety properties
   enforced by λ-Q#'s type system and present its equational semantics based on a complete
   algebraic theory by Staton.
-publication: ''
+publication: '19th International Conference on Quantum Physics and Logic 2022'
 links:
 - name: URL
   url: https://ks.cs.uchicago.edu/publication/q-algol/
