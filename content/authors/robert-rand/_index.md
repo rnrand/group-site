@@ -11,25 +11,25 @@ role: Assistant Professor of Computer Science
 # Organizations/Affiliations
 organizations:
 - name: University of Chicago
-  url: ""
+  url: "https://cs.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My main interest is in applying techniques from programming languages and formal verification to the domain of quantum computation.
 
-# interests:
-# - Quantum Computation
-# - Verified Optimization
-# - Error Correction
-# - Type Systems
-# - Programming Abstractions
+interests:
+- Quantum Programming 
+- Verified Optimization
+- Error Correction
+- Type Systems
+- Programming Abstractions
 
 education:
   courses:
   - course: PhD in  Computer and Information Sciences
     institution: University of Pennsylvania
     year: 2018
-  - course: B.A. Summa Cum Laude in Computer Science and Mathematics
-    institution: Yeshiva College, New York, NY
+  - course: BA in Computer Science and Mathematics
+    institution: Yeshiva University
     year: 2011
 
 # Social/Academic Networking
@@ -49,6 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rnrand
+- icon: link
+  icon_pack: fas
+  link: https://rand.cs.uchicago.edu/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
