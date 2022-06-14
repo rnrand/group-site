@@ -33,12 +33,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: link
-  icon_pack: fas
-  link: https://ks.cs.uchicago.edu/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1132-269X
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/k4rtik
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=nkC9nTsAAAAJ
@@ -48,9 +48,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/k4rtik
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/k4rtik
+- icon: link
+  icon_pack: fas
+  link: https://ks.cs.uchicago.edu/
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:ks@cs.uchicago.edu'

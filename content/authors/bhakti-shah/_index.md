@@ -31,15 +31,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:bhaktishah@uchicago.edu'
-- icon: link
-  icon_pack: fas
-  link: https://bhaktishh.github.io/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bhaktishh
 - icon: github
   icon_pack: fab
   link: https://github.com/bhaktishh
+- icon: link
+  icon_pack: fas
+  link: https://bhaktishh.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
