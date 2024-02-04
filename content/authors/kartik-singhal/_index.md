@@ -68,8 +68,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Grad Students
+user_groups: []
 ---
 
 I am interested in the design and verification of programming languages for realistic quantum computing. See my [homepage](https://ks.cs.uchicago.edu/) for more information.
