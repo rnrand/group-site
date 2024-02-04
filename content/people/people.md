@@ -23,6 +23,7 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - Removed
 design:
   show_interests: false
   show_role: true
