@@ -11,7 +11,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a second year undergraduate student at the University of Chicago, majoring in Computer Science and Mathematics.
+bio: I am a joint BS/MS student at the University of Chicago, majoring in Computer Science.
 
 interests:
 - Programming Languages
@@ -31,9 +31,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:bhaktishah@uchicago.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/bhaktishh
 - icon: github
   icon_pack: fab
   link: https://github.com/bhaktishh
@@ -53,4 +50,4 @@ user_groups:
 - Undergrads
 ---
 
-I am a second year undergraduate student at the University of Chicago, majoring in Computer Science and Mathematics.
+I am a joint BS/MS student at the University of Chicago, majoring in Computer Science.
