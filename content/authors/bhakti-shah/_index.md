@@ -11,6 +11,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
+
 bio: I am a joint BS/MS student at the University of Chicago, majoring in Computer Science.
 
 interests:
