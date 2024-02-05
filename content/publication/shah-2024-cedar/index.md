@@ -24,9 +24,7 @@ publication_types:
 abstract: ''
 publication: '*Principles of Programming Languages (POPL 2024): Student Research Competition* Poster'
 url_pdf: https://bhaktishh.github.io/popl24src.pdf
-links:
-- name: Poster
-  url: https://bhaktishh.github.io/popl-24-src-poster-pdf.pdf
+url_poster: https://bhaktishh.github.io/popl-24-src-poster-pdf.pdf
 ---
 
 <!-- {{< youtube ID >}} -->

@@ -28,9 +28,7 @@ publication: '*International Conference on Functional Programming (ICFP 2023): S
 url_pdf: https://bhaktishh.github.io/ICFP_SRC_poster.pdf
 url_slides: 
 url_video: 
-links:
-- name: Poster
-  url: https://bhaktishh.github.io/ICFP_SRC.pdf
+url_poster: https://bhaktishh.github.io/ICFP_SRC.pdf
 ---
 
 <!-- {{< youtube ID >}} -->
