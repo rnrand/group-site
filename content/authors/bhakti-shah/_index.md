@@ -3,7 +3,8 @@
 title: Bhakti Shah
 
 # Role/position
-role: Undergraduate
+role: BS/MS Student → <br> PhD at St. Andrews
+current: PhD student at University of St Andrews
 
 # Organizations/Affiliations
 organizations:
@@ -12,7 +13,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: I am a joint BS/MS student at the University of Chicago, majoring in Computer Science.
+bio: Bhakti received her BS/MS student at the University of Chicago, majoring in Computer Science. She is now a PhD student at the University of St Andrews. 
 
 interests:
 - Programming Languages
@@ -48,7 +49,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrads
+- Alumni
 ---
 
 I am a joint BS/MS student at the University of Chicago, majoring in Computer Science.

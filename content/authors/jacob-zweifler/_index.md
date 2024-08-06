@@ -3,15 +3,16 @@
 title: Jacob Zweifler
 
 # Role/position
-role: Undergraduate
+role: Undergraduate → <br> MA at NYU
+current: Masters Student at NYU
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
+- name: New York University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth year student at the University of Chicago majoring in math and computer science.
+bio: Jake was an undergraduate at the University of Chicago majoring in math and computer science. He is now pursuing a masters degree in mathematics at New York University.
 
 interests:
 - Theoretical Mathematics
@@ -60,7 +61,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: []
+user_groups:
+- Alumni
+
 ---
 
 I am a fourth year student at the University of Chicago majoring in math and computer science.

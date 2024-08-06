@@ -3,7 +3,7 @@
 title: Mikhail Mints
 
 # Role/position
-role: Undergraduate
+role: Visiting Undergraduate
 
 # Organizations/Affiliations
 organizations:
@@ -46,7 +46,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrads
+- Visitors
 ---
 
 I am an undergraduate student at Caltech, majoring in computer science. I am a visiting student here for the summer of 2024, working on designing a compiler and a simulator for the language [Qunity](https://arxiv.org/abs/2204.12384).

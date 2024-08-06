@@ -3,11 +3,12 @@
 title: Kartik Singhal
 
 # Role/position
-role: PhD Student
+role: PhD Student → <br> Quantinuum
+current: Compiler Engineer at Quantinuum
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
+- name: Quantinuum
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -21,6 +22,9 @@ interests:
 
 education:
   courses:
+  - course: MS in Computer Science
+    institution: University of Chicago
+    year: 2020
   - course: ScM in Computer Science
     institution: Brown University
     year: 2017
@@ -68,7 +72,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: []
+user_groups:
+- Alumni
+
 ---
 
 I am interested in the design and verification of programming languages for realistic quantum computing. See my [homepage](https://ks.cs.uchicago.edu/) for more information.
