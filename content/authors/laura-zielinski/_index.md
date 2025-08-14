@@ -3,22 +3,23 @@
 title: Laura Zielinski
 
 # Role/position
-role: Undergraduate
-current: PhD Student at Cornell University
+role: PhD Student at Cornell University
+current: Cornell University
 
 # Organizations/Affiliations
 organizations:
-- name: Cornell University
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Brief Bio
+bio: I'm a first year PhD student at Cornell University studying programming languages. I graduated from UChicago in 2024 majoring in mathematics.
 
 interests:
-- Thing 1
-- Thing 2
-- Optional thing 3 (can add more)
+- Formal verification
+- Category theory
+- Mathematical logic, computability
+- Coffee, cross country skiing, book collecting
 
 # education:
 #   courses:
@@ -33,10 +34,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 
+  link: 'mailto:lcz8@cornell.edu'
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/lczielinski/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -46,7 +47,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: []
+user_groups: 
+- Alumni
 ---
 
-Include Bio here
+I'm a first year PhD student at Cornell University studying programming languages. I graduated from UChicago in 2024 majoring in mathematics.
