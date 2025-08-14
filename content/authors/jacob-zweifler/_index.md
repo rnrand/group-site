@@ -3,16 +3,16 @@
 title: Jacob Zweifler
 
 # Role/position
-role: Undergraduate → <br> MA at NYU
-current: Masters Student at NYU
+role: Undergraduate → <br> PhD at UMich
+current: PhD Student at University of Michigan
 
 # Organizations/Affiliations
 organizations:
-- name: New York University
+- name: University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jake was an undergraduate at the University of Chicago majoring in math and computer science. He is now pursuing a masters degree in mathematics at New York University.
+bio: Jake is a former mathematics and computer science student at UChicago. He is now pursuing a PhD in mathematics at the University of Michigan.
 
 interests:
 - Theoretical Mathematics
@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jzweifler@uchicago.edu'
+  link: 'mailto:jacozwei@umich.edu'
 - icon: link
   icon_pack: fas
   link: https://jakezweifler.github.io/

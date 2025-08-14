@@ -105,7 +105,7 @@
  year = {2022}
 }
 
-@inproceedings{voichick2022qunity,
+@inproceedings{voichick2023qunity,
   author = {Voichick, Finn and Li, Liyi and Rand, Robert and Hicks, Michael},
   title = {Qunity: A Unified Language for Quantum and Classical Computing},
   booktitle={Proceedings of the ACM on Programming Languages},
@@ -186,7 +186,7 @@ location = {New York, NY, USA},
 series = {QuNet '23}
 }
 
-@INPROCEEDINGS{evans2023,
+@INPROCEEDINGS{evans2023mcbeth,
   author={Evans, Aidan and Omonije, Seun and Soulé, Robert and Rand, Robert},
   booktitle={2023 IEEE/ACM 4th International Workshop on Quantum Software Engineering (Q-SE)}, 
   title={MCBeth: A Measurement-based Quantum Programming Language}, 
@@ -196,4 +196,106 @@ series = {QuNet '23}
   pages={1-8},
   keywords={Computer languages;Adaptation models;Quantum computing;Current measurement;Computational modeling;Logic gates;Programming;quantum computing;programming languages;measurement-based quantum computing;one-way quantum computer;distributed computing},
   doi={10.1109/Q-SE59154.2023.00007}
-  }
+}
+
+@article{hietala2023verified,
+author = {Hietala, Kesha and Rand, Robert and Li, Liyi and Hung, Shih-Han and Wu, Xiaodi and Hicks, Michael},
+title = {A Verified Optimizer for Quantum Circuits},
+year = {2023},
+issue_date = {September 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {45},
+number = {3},
+issn = {0164-0925},
+url = {https://doi.org/10.1145/3604630},
+doi = {10.1145/3604630},
+abstract = {We present voqc, the first verified optimizer for quantum circuits, written using the Coq proof assistant. Quantum circuits are expressed as programs in a simple, low-level language called sqir, a small quantum intermediate representation, which is deeply embedded in Coq. Optimizations and other transformations are expressed as Coq functions, which are proved correct with respect to a semantics of sqir programs. sqir programs denote complex-valued matrices, as is standard in quantum computation, but we treat matrices symbolically to reason about programs that use an arbitrary number of quantum bits. sqir’s careful design and our provided automation make it possible to write and verify a broad range of optimizations in voqc, including full-circuit transformations from cutting-edge optimizers.},
+journal = {ACM Transactions on Programming Languages and Systems},
+month = {sep},
+articleno = {18},
+numpages = {35},
+keywords = {Formal verification, quantum computing, circuit optimization, certified compilation}
+}
+
+@misc{lehmann2023vyzx,
+      title={VyZX: Formal Verification of a Graphical Quantum Language}, 
+      author={Adrian Lehmann and Ben Caldwell and Bhakti Shah and Robert Rand},
+      year={2023},
+      eprint={2311.11571},
+      archivePrefix={arXiv},
+      primaryClass={cs.PL},
+	  doi={10.48550/arXiv.2311.11571}	  
+}
+  
+@inproceedings{buckley2024algebraic,
+author = {Buckley, Anita and Chuprikov, Pavel and Otoni, Rodrigo and Rand, Robert and Soul\'{e}, Robert and Eugster, Patrick},
+title = {An Algebraic Language for Specifying Quantum Networks},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+abstract = {Quantum networks connect quantum capable nodes in order to achieve capabilities that are impossible only using classical information. Their fundamental unit of communication is the Bell pair, which consists of two entangled quantum bits. Unfortunately, Bell pairs are fragile and difficult to transmit directly, necessitating a network of repeaters, along with software and hardware that can ensure the desired results. To this end, we developed BellKAT, a novel specification language for quantum networks based upon Kleene algebra. To cater to the specific needs of quantum networks, we designed an algebraic structure, called BellSKA, which we use as the basis of BellKAT’s denotational semantics. BellKAT’s constructs describe entanglement distribution rules that allow for modular specification. We give BellKAT a sound and complete equational theory, allowing us to verify network protocols. We provide a prototype tool to showcase the expressiveness of BellKAT and how to verify networks in practice.},
+keywords = {entanglement, kleene algebra, quantum networks},
+booktitle={Proceedings of the ACM on Programming Languages},
+number={PLDI},
+url          = {https://doi.org/10.1145/3656430},
+doi          = {10.1145/3656430},
+year={2024}
+}
+
+@misc{voichick2024cognac,
+      title={COGNAC: Circuit Optimization via Gradients and Noise-Aware Compilation}, 
+      author={Finn Voichick and Leonidas Lampropoulos and Robert Rand},
+      year={2024},
+      eprint={2311.02769},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+	  doi={10.48550/arXiv.2311.02769}
+}
+
+@inproceedings{shah2024vicar,
+ 	  title={ViCAR: Visualizing Categories with Automated Rewriting in Coq}, 
+      author={Bhakti Shah and William Spencer and Laura Zielinski and Ben Caldwell and Adrian Lehmann and Robert Rand},
+      year={2024},
+      booktitle={The 7th International Conference on Applied Category Theory (ACT)}, 
+      url={https://arxiv.org/abs/2404.08163},
+	  note={To Appear}
+}
+
+@inproceedings{lehmann2024egg,
+    author = {Adrian Lehmann and Ben Caldwell and John Reppy and Robert Rand},
+    title = {Automated Proof Generation for Associative and Distributive Rewriting with E-Graphs},
+    booktitle = {E-Graph Research, Applications, Practices, and Human-factors (EGRAPHS)},
+    year = {2024}
+}
+
+@misc{cho2025verification,
+      title={Verification of Low T-count Quantum Circuits in Rocq}, 
+      author={Youngchan Cho and Robert Rand},
+      year={2025},
+	  note={In Submission}
+}
+
+@misc{lehmann2025dcac,
+      title={Domain-Specific Rocq Automation with E-Graphs}, 
+      author={Adrian Lehmann and Robert Rand},
+      year={2025},
+	  note={In Submission}
+}
+
+@inproceedings{buckley2025pbkat,
+      title={A Language for Quantifying Quantum Network Behavior}, 
+      author={Buckley, Anita and Chuprikov, Pavel and Otoni, Rodrigo and Soul\'{e}, Robert and Rand, Robert and Eugster, Patrick},
+      year={2025},
+      booktitle={Proceedings of the ACM on Programming Languages},
+      number={OOPSLA2},
+	  note={To appear}
+}
+
+@inproceedings{mints2025qunity,
+      title={Compositional Quantum Control Flow with Efficient Compilation in Qunity}, 
+      author={Mikhail Mints and Finn Voichick and Leonidas Lampropoulos and Robert Rand},
+      year={2025},
+      booktitle={Proceedings of the ACM on Programming Languages},
+      number={OOPSLA2},
+	  note={To appear}
+}

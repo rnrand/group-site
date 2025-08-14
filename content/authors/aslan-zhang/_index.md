@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yunxiang(Aslan) Zhang
+title: Yunxiang (Aslan) Zhang
 
 # Role/position
 role: PhD Student
