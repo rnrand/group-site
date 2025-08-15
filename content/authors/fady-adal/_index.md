@@ -1,23 +1,25 @@
 ---
 # Display name
-title: Your Name
+title: Fady Adal
 
 # Role/position
-role: Undergraduate
+role: Undergraduate → <br> Imandra
+current: Research Fellow at Imandra
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
+- name: Imandra
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Brief Bio
+bio: I'm a University of Chicago computer science and linguistics graduate. Currently, I'm focusing on proof automation in industrial applications, exploiting the power of LLMs.
 
 interests:
-- Thing 1
-- Thing 2
-- Optional thing 3 (can add more)
+- Formal Verification 
+- Proof Automation
+- Industrial applications of dependent type theory 
+- Formal languages 
 
 # education:
 #   courses:
@@ -45,7 +47,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: []
+user_groups: 
+- Alumni
+
 ---
 
-Include Bio here
+I'm a University of Chicago computer science and linguistics graduate. Currently, I'm focusing on proof automation in industrial applications, exploiting the power of LLMs.
