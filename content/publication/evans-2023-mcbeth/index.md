@@ -10,12 +10,15 @@ authors:
 - Robert Soulé
 - Robert Rand
 tags:
-- Computer languages;Adaptation models;Quantum computing;Current measurement;Computational
-  modeling;Logic gates;Programming;quantum computing;programming languages;measurement-based
-  quantum computing;one-way quantum computer;distributed computing
+- quantum computing
+- programming languages
+- quantum programming languages
+- measurement-based quantum computing
+- one-way quantum computer
+- distributed computing
 categories: []
 date: '2023-01-01'
-lastmod: 2025-08-14T15:16:33-05:00
+lastmod: 2024-01-24T14:29:16-06:00
 featured: false
 draft: false
 
@@ -33,11 +36,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-08-14T20:16:33.436090Z'
+publishDate: '2024-01-24T20:29:15.571026Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*2023 IEEE/ACM 4th International Workshop on Quantum Software Engineering
   (Q-SE)*'
 doi: 10.1109/Q-SE59154.2023.00007
+url_video: https://youtu.be/GKwFNu-otyw?t=1493
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2204.10784
 ---
+QPL 2022 video:
+<p>
+{{< youtube "GKwFNu-otyw?start=1493" >}}
+</p>
