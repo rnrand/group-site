@@ -1,0 +1,42 @@
+---
+title: Compositional Quantum Control Flow with Efficient Compilation in Qunity
+date: '2025-10-01'
+publishDate: '2026-01-17T18:15:34.405028Z'
+authors:
+- Mikhail Mints
+- Finn Voichick
+- Leonidas Lampropoulos
+- Robert Rand
+publication_types:
+- '1'
+abstract: Most existing quantum programming languages are based on the quantum circuit
+  model of computation, as higher-level abstractions are particularly challenging
+  to implement—especially ones relating to quantum control flow. The Qunity language,
+  proposed by Voichick et al., offered such an abstraction in the form of a quantum
+  control construct, with great care taken to ensure that the resulting language is
+  still realizable. However, Qunity lacked a working implementation, and the originally
+  proposed compilation procedure was very inefficient, with even simple quantum algorithms
+  compiling to unreasonably large circuits.    In this work, we focus on the efficient
+  compilation of high-level quantum control flow constructs, using Qunity as our starting
+  point. We introduce a wider range of abstractions on top of Qunity's core language
+  that offer compelling trade-offs compared to its existing control construct. We
+  create a complete implementation of a Qunity compiler, which converts high-level
+  Qunity code into the quantum assembly language OpenQASM 3. We develop optimization
+  techniques for multiple stages of the Qunity compilation procedure, including both
+  low-level circuit optimizations as well as methods that consider the high-level
+  structure of a Qunity program, greatly reducing the number of qubits and gates used
+  by the compiler.
+featured: false
+publication: '*Proceedings of the ACM on Programming Languages*'
+tags:
+- compiler optimizations
+- high-level programming languages
+- quantum control flow
+- quantum programming languages
+- quantum subroutines
+doi: 10.1145/3763056
+links:
+- name: URL
+  url: https://doi.org/10.1145/3763056
+---
+

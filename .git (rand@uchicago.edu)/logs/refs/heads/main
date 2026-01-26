@@ -1,0 +1,21 @@
+0000000000000000000000000000000000000000 f0caf193d85852d79c63ccdafcbfbf8a6eadd1e3 Robert Rand <rnrand@gmail.com> 1653016179 -0500	clone: from https://github.com/rnrand/group-site.git
+f0caf193d85852d79c63ccdafcbfbf8a6eadd1e3 b4c2960a99c82a83e0dcf26edb6eb856ac2e394a Robert Rand <rnrand@gmail.com> 1653018096 -0500	commit: updated publications
+b4c2960a99c82a83e0dcf26edb6eb856ac2e394a f379f578317e69638d7b82c4e3608b36eec2b696 Robert Rand <rnrand@gmail.com> 1653018174 -0500	commit: updated publications
+f379f578317e69638d7b82c4e3608b36eec2b696 0f5eade57dc033cb5857f5098c93cd8767f0529e Robert Rand <rnrand@gmail.com> 1653167866 -0500	pull: Fast-forward
+0f5eade57dc033cb5857f5098c93cd8767f0529e b565f15cafbe1afe1f7e474c5797ba151d9b4fdc Robert Rand <rnrand@gmail.com> 1653169273 -0500	commit: updated categories to be consistent with my site
+b565f15cafbe1afe1f7e474c5797ba151d9b4fdc 75d5aa3066cb579ca02b0e0e5c45679cb9147a13 Robert Rand <rnrand@gmail.com> 1653169344 -0500	commit: missing workshop and poster
+75d5aa3066cb579ca02b0e0e5c45679cb9147a13 fde6f969a28f32c8a9b3d3f72fa809fde1c05a42 Robert Rand <rnrand@gmail.com> 1655154306 -0500	pull: Fast-forward
+fde6f969a28f32c8a9b3d3f72fa809fde1c05a42 22c82ae31e1c2afb3782e975bff70661685e6de1 Robert Rand <rnrand@gmail.com> 1655186943 -0500	commit: regular order for icons, minor update to Robert Rand page
+22c82ae31e1c2afb3782e975bff70661685e6de1 b0ebde348f3e3569e8f925713e300f20b9ea9bdc Robert Rand <rnrand@gmail.com> 1707086689 -0600	commit: removed former lab members
+b0ebde348f3e3569e8f925713e300f20b9ea9bdc 311afa5001fe1b01cf1e4b028e1e2ff3bc8995e6 Robert Rand <rnrand@gmail.com> 1707103735 -0600	pull: Fast-forward
+311afa5001fe1b01cf1e4b028e1e2ff3bc8995e6 2f221a092db56dbe9b26dd444bc80ce2a1c65941 Robert Rand <rnrand@gmail.com> 1707104819 -0600	commit: minor fixes to Bhakti posters and presentations
+2f221a092db56dbe9b26dd444bc80ce2a1c65941 d91e47dac9f412bee587c867e6c30bbac6fd83fd Robert Rand <rnrand@gmail.com> 1707105637 -0600	commit: added publications.bib, allowing easier pubs export
+d91e47dac9f412bee587c867e6c30bbac6fd83fd 151bdd07e8b47811d32f018496f3e05f5e30ae25 Robert Rand <rnrand@gmail.com> 1722885469 -0500	pull: Fast-forward
+151bdd07e8b47811d32f018496f3e05f5e30ae25 b8714545759742ea6e21823b9cb7a4e6ac0d7ee9 Robert Rand <rnrand@gmail.com> 1722986071 -0500	commit: added new people, alumni section
+b8714545759742ea6e21823b9cb7a4e6ac0d7ee9 29319a8c2b6d7f5df582a9ce682d6c1616c4722d Robert Rand <rnrand@gmail.com> 1722986669 -0500	commit: new people
+29319a8c2b6d7f5df582a9ce682d6c1616c4722d bd897732f56fd09f386bf8339269e39833de3017 Robert Rand <rnrand@gmail.com> 1748541505 -0500	commit: added aslan
+bd897732f56fd09f386bf8339269e39833de3017 6204b6f7a3275ee24c2e3dba71d1105321305c02 Robert Rand <rnrand@gmail.com> 1748541527 -0500	pull: Merge made by the 'ort' strategy.
+6204b6f7a3275ee24c2e3dba71d1105321305c02 8bdd9ba5630591b5b55d32446ca32225c789e94b Robert Rand <rnrand@gmail.com> 1755210861 -0500	commit: added authors, new pubs
+8bdd9ba5630591b5b55d32446ca32225c789e94b 537f10d88cbbbbd4386542d62ce7152a8ec55b5d Robert Rand <rnrand@gmail.com> 1755210892 -0500	pull: Merge made by the 'ort' strategy.
+537f10d88cbbbbd4386542d62ce7152a8ec55b5d fe5000572b86cb805d354ef543d8b5c52f9c47e7 Robert Rand <rnrand@gmail.com> 1755294024 -0500	commit: add Fady Adal, publications
+fe5000572b86cb805d354ef543d8b5c52f9c47e7 008231e1111672bde47602c7960898525e882bf1 Robert Rand <rnrand@gmail.com> 1755319460 -0500	commit: fixed tags for mcbeth
