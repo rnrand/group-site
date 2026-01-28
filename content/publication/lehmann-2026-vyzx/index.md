@@ -11,7 +11,7 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
-publication: '*ACM Transactions on Programming Languages and Systems*'
+publication: '*ACM Transactions on Programming Languages and Systems (TOPLAS)*'
 doi: 10.48550/arXiv.2311.11571
 links:
 - name: arXiv

@@ -29,7 +29,7 @@ abstract: Quantum networks have capabilities that are impossible to achieve usin
   for both expressing real-world quantum network protocols and reasoning about their
   quantitative properties.
 featured: false
-publication: '*Proceedings of the ACM on Programming Languages*'
+publication: '*Object-Oriented Programming, Systems, Languages & Applications (OOPSLA)*'
 tags:
 - entanglement distribution
 - probabilistic and possibilistic semantics

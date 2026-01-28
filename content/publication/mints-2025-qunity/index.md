@@ -27,7 +27,7 @@ abstract: Most existing quantum programming languages are based on the quantum c
   structure of a Qunity program, greatly reducing the number of qubits and gates used
   by the compiler.
 featured: false
-publication: '*Proceedings of the ACM on Programming Languages*'
+publication: '*Object-Oriented Programming, Systems, Languages & Applications (OOPSLA)*'
 tags:
 - compiler optimizations
 - high-level programming languages
