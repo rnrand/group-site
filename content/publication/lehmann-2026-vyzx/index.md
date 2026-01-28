@@ -6,6 +6,7 @@ authors:
 - Adrian Lehmann
 - Ben Caldwell
 - Bhakti Shah
+- William Spencer
 - Robert Rand
 publication_types:
 - '2'
