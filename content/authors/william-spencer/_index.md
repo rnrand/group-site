@@ -12,18 +12,20 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Brief Bio
+bio: I am interested in automation for formal verification.
 
 interests:
-- Thing 1
-- Thing 2
-- Optional thing 3 (can add more)
+- Reflective Automation
+- Formal Verification
+- ZX-calculus
+- Category Theory
+- Quantum Computing
 
-# education:
-#   courses:
-#   - course: ...
-#     institution:
-#     year: ...
+education:
+  courses:
+  - course: B.S. in Mathematics and B.S. in Computer Science
+    institution: University of Chicago
+    year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -32,10 +34,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 
+  link: 'mailto:wjbs@uchicago.edu'
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/wjbs
+# - icon: link
+#   icon_pack: fas
+#   link: https://people.cs.uchicago.edu/~wjbs
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -45,7 +50,10 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: []
+user_groups:
+- Grad Students
 ---
 
-Include Bio here
+I am interested in formal verification, especially automation. I have worked on 
+automation for category theory, the ZX-calculus, and Hoare-Heisenberg logic in
+the ChiQP Lab.
