@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} ChiQP-Lab.'
+    notice: '© {year} ChiQP Lab.'
     license:
       enable: false
       allow_derivatives: false
