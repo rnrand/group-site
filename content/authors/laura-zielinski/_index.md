@@ -3,7 +3,7 @@
 title: Laura Zielinski
 
 # Role/position
-role: Undergraduate → <br> PhD at Cornell
+role: Undergraduate → <br> PhD @ Cornell
 current: PhD Student at Cornell University
 
 # Organizations/Affiliations

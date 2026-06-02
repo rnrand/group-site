@@ -26,6 +26,10 @@ education:
   - course: B.A. in Pure Mathematics
     institution: New College of Florida
     year: 2020
+  - course: Ph.D. in Computer Science
+    institution: University of Chicago
+    year: 2026
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -59,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 I am interested in the semantics behind graphical languages. As a part of ChiQP-Lab I work on projects relating to the ZX-calculus and quantum circuit optimization.

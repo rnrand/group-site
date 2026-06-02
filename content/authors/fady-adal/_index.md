@@ -3,8 +3,8 @@
 title: Fady Adal
 
 # Role/position
-role: Undergraduate → <br> Imandra
-current: Research Fellow at Imandra
+role: Undergraduate → <br> PhD @ UVermont
+current: PhD @ UVermont
 
 # Organizations/Affiliations
 organizations:

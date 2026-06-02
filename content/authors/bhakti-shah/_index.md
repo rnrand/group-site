@@ -3,7 +3,7 @@
 title: Bhakti Shah
 
 # Role/position
-role: BS/MS → <br> PhD at St. Andrews
+role: BS/MS → <br> PhD @ St. Andrews
 current: PhD student at University of St Andrews
 
 # Organizations/Affiliations

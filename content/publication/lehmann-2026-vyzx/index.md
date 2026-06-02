@@ -13,7 +13,7 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*ACM Transactions on Programming Languages and Systems (TOPLAS)*'
-doi: 10.48550/arXiv.2311.11571
+doi: 10.1145/3807780
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2311.11571

@@ -3,7 +3,7 @@
 title: Jacob Zweifler
 
 # Role/position
-role: Undergraduate → <br> PhD at UMichigan
+role: Undergraduate → <br> PhD @ UMichigan
 current: PhD Student at University of Michigan
 
 # Organizations/Affiliations
