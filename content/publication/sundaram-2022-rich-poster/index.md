@@ -38,7 +38,7 @@ publication: '*Quantum Information Processing (QIP 2022)* Poster'
 url_pdf: 
 url_slides: 
 url_video: 
-url_poster: sundaram-2022-rich-poster/files/qip_2022_poster.pdf
+url_poster: https://rand.cs.uchicago.edu/files/qip_2022_poster.pdf
 <!-- links:
 - name: Poster
   url: files/nisq_2020_poster.pdf -->

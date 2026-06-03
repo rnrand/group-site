@@ -46,7 +46,7 @@ social:
   link: https://github.com/adrianleh
 - icon: link
   icon_pack: fas
-  link: https://adrianlehmann.io
+  link: https://adrianlehmann.net/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,4 +65,4 @@ user_groups:
 - Alumni
 ---
 
-I am interested in building verified tools for quantum programming languages. To see what I'm working on take a peek at my [GitHub](https://github.com/adrianleh) and my [website](https://adrianlehmann.io).
+I am interested in building verified tools for quantum programming languages. To see what I'm working on take a peek at my [GitHub](https://github.com/adrianleh) and my [website](https://adrianlehmann.net/).

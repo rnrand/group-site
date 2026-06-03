@@ -25,10 +25,10 @@ publication_types:
 - '8'
 abstract: ''
 publication: '*International Conference on Functional Programming (ICFP 2023): Student Research Competition* Poster'
-url_pdf: https://bhaktishh.github.io/ICFP_SRC_poster.pdf
+url_pdf: https://bhaktishh.github.io/papers/icfp-23-src-poster.pdf
 url_slides: 
 url_video: 
-url_poster: https://bhaktishh.github.io/ICFP_SRC.pdf
+url_poster: https://bhaktishh.github.io/papers/icfp-23-src-abs.pdf
 ---
 
 <!-- {{< youtube ID >}} -->

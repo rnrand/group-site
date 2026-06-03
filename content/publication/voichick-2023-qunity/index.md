@@ -11,6 +11,7 @@ publication_types:
 - '1'
 abstract: ''
 featured: false
-publication: '*Proceedings of the ACM on Programming Languages*'
+publication: '*Principles of Programming Languages (POPL)*'
+doi: 10.1145/3571225
 ---
 

@@ -47,5 +47,5 @@ abstract: Recent years have seen a trend towards more integrated
   effects in OCaml 5.0, dispatching an effect every time a
   Require statement is found.
 publication: '*The Tenth International Workshop on Coq for Programming Languages (CoqPL 2024)*'
-url_pdf: https://bhaktishh.github.io/CoqPL_24.pdf
+url_pdf: https://bhaktishh.github.io/papers/coqpl-24.pdf
 ---
